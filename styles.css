@@ -1,0 +1,21 @@
+html {
+	margin: 1;
+	padding: 0.5;
+	}
+
+p {
+	text-align: center;
+	}
+
+heading {
+	font: 75% georgia, sans-serif;
+	color: #B7A5DF;
+	}
+
+#classified {
+	color: red;
+	}
+
+.caption {
+	background-color: #0f0;
+	}
